@@ -1,0 +1,28 @@
+ .categories {
+    padding: 16px;
+    background-color: #f5f5f5;
+  }
+  
+  .category {
+    align-items: center;
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  .category:hover {
+    background-color: #e0e0e0;
+  }
+
+  .categorySelected {
+    background-color: #e0e0f0;
+  }
+  
+  .categoryImage {
+    width: 60px;
+    height: 60px;
+    margin-bottom: 2px;
+  }
+  
+  .categoryText {
+    width: 50px;
+  }
